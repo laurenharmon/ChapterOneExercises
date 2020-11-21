@@ -1,0 +1,13 @@
+C:\Users\harmo\source\repos\ChapterOnePartFour\bin\Debug\netcoreapp3.1\ChapterOnePartFour.exe
+C:\Users\harmo\source\repos\ChapterOnePartFour\bin\Debug\netcoreapp3.1\ChapterOnePartFour.deps.json
+C:\Users\harmo\source\repos\ChapterOnePartFour\bin\Debug\netcoreapp3.1\ChapterOnePartFour.runtimeconfig.json
+C:\Users\harmo\source\repos\ChapterOnePartFour\bin\Debug\netcoreapp3.1\ChapterOnePartFour.runtimeconfig.dev.json
+C:\Users\harmo\source\repos\ChapterOnePartFour\bin\Debug\netcoreapp3.1\ChapterOnePartFour.dll
+C:\Users\harmo\source\repos\ChapterOnePartFour\bin\Debug\netcoreapp3.1\ChapterOnePartFour.pdb
+C:\Users\harmo\source\repos\ChapterOnePartFour\obj\Debug\netcoreapp3.1\ChapterOnePartFour.csprojAssemblyReference.cache
+C:\Users\harmo\source\repos\ChapterOnePartFour\obj\Debug\netcoreapp3.1\ChapterOnePartFour.AssemblyInfoInputs.cache
+C:\Users\harmo\source\repos\ChapterOnePartFour\obj\Debug\netcoreapp3.1\ChapterOnePartFour.AssemblyInfo.cs
+C:\Users\harmo\source\repos\ChapterOnePartFour\obj\Debug\netcoreapp3.1\ChapterOnePartFour.csproj.CoreCompileInputs.cache
+C:\Users\harmo\source\repos\ChapterOnePartFour\obj\Debug\netcoreapp3.1\ChapterOnePartFour.dll
+C:\Users\harmo\source\repos\ChapterOnePartFour\obj\Debug\netcoreapp3.1\ChapterOnePartFour.pdb
+C:\Users\harmo\source\repos\ChapterOnePartFour\obj\Debug\netcoreapp3.1\ChapterOnePartFour.genruntimeconfig.cache
